@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/jaeha0183/LeetCode/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/jaeha0183/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/jaeha0183/LeetCode/tree/master/0067-add-binary) |
+| [0383-ransom-note](https://github.com/jaeha0183/LeetCode/tree/master/0383-ransom-note) |
 ## Stack
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/jaeha0183/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/jaeha0183/LeetCode/tree/master/0012-integer-to-roman) |
 | [0169-majority-element](https://github.com/jaeha0183/LeetCode/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/jaeha0183/LeetCode/tree/master/0383-ransom-note) |
 ## Sliding Window
 |  |
 | ------- |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/jaeha0183/LeetCode/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/jaeha0183/LeetCode/tree/master/0383-ransom-note) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
