@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/jaeha0183/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/jaeha0183/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/jaeha0183/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0392-is-subsequence](https://github.com/jaeha0183/LeetCode/tree/master/0392-is-subsequence) |
 ## String
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/jaeha0183/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/jaeha0183/LeetCode/tree/master/0125-valid-palindrome) |
 | [0383-ransom-note](https://github.com/jaeha0183/LeetCode/tree/master/0383-ransom-note) |
+| [0392-is-subsequence](https://github.com/jaeha0183/LeetCode/tree/master/0392-is-subsequence) |
 ## Stack
 |  |
 | ------- |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/jaeha0183/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0392-is-subsequence](https://github.com/jaeha0183/LeetCode/tree/master/0392-is-subsequence) |
 ## Sorting
 |  |
 | ------- |
