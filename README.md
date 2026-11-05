@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/jaeha0183/LeetCode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/jaeha0183/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/jaeha0183/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0138-copy-list-with-random-pointer](https://github.com/jaeha0183/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/jaeha0183/LeetCode/tree/master/0141-linked-list-cycle) |
 ## Recursion
 |  |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jaeha0183/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/jaeha0183/LeetCode/tree/master/0012-integer-to-roman) |
+| [0138-copy-list-with-random-pointer](https://github.com/jaeha0183/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/jaeha0183/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/jaeha0183/LeetCode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/jaeha0183/LeetCode/tree/master/0205-isomorphic-strings) |
